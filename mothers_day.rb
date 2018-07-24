@@ -2,9 +2,9 @@
 
 
 def mothers_day(mother = "Mom")
-  puts "Happy Mother's Day, #{mother}! I hope you have a great day!"
+   "Happy Mother's Day, #{mother}! I hope you have a great day!"
 end 
 
 
-mothers_day
-mothers_day("Tracy")
+puts mothers_day
+puts mothers_day("Tracy")
